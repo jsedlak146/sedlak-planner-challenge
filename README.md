@@ -6,6 +6,8 @@ This homework challenge had us updating an existing planner with dynamic HTML CS
 
 https://github.com/jsedlak146/sedlak-planner-challenge
 
+https://jsedlak146.github.io/sedlak-planner-challenge/
+
 
 
 ## Installation
